@@ -1,0 +1,112 @@
+{
+  "2025-06-04": {
+    "breakfast": {
+      "name": "Pan con queso crema y café",
+      "recipe": "Ingredientes:\n- 2 tajadas de pan\n- 2 cucharadas de queso crema\n- 1 taza de café preparado\n\nPreparación:\n1. Tuesta el pan si lo deseas.\n2. Unta el queso crema sobre las tajadas.\n3. Acompaña con café caliente."
+    },
+    "morningSnack": {
+      "name": "Pera en trozos con maní",
+      "notes": "Fruta fresca con proteína vegetal"
+    },
+    "lunch": {
+      "name": "Lomo de cerdo con crema de espinaca y arepa",
+      "recipe": "Ingredientes:\n- 150 g de lomo de cerdo\n- 2 cucharadas de crema de espinaca\n- 1 arepa\n- Sal y pimienta al gusto\n\nPreparación:\n1. Cocina el lomo de cerdo en sartén con sal y pimienta hasta dorar.\n2. Calienta la crema de espinaca y la arepa.\n3. Sirve todo junto como plato completo."
+    },
+    "afternoonSnack": {
+      "name": "Galletas wafer y leche",
+      "notes": "Simple y saciante"
+    },
+    "dinner": {
+      "name": "Tortilla de huevo con jamón y queso",
+      "recipe": "Ingredientes:\n- 2 huevos\n- 1 tajada de jamón\n- 1 tajada de queso doble crema\n- Sal y pimienta\n\nPreparación:\n1. Bate los huevos con sal y pimienta.\n2. Agrega el jamón picado y el queso en trocitos.\n3. Cocina en sartén hasta que cuaje y esté dorada."
+    }
+  },
+  "2025-06-05": {
+    "breakfast": {
+      "name": "Arepas con queso doble crema y chocolate caliente",
+      "recipe": "Ingredientes:\n- 2 arepas\n- 2 tajadas de queso doble crema\n- 1 taza de leche\n- 1 cucharadita de cacao en polvo\n- Endulzante al gusto (opcional)\n\nPreparación:\n1. Asa las arepas y coloca el queso encima.\n2. Calienta la leche con el cacao y endulza.\n3. Sirve con las arepas."
+    },
+    "morningSnack": {
+      "name": "Ciruelas con maní",
+      "notes": "Buena combinación de fibra y energía"
+    },
+    "lunch": {
+      "name": "Lomo de cerdo en salsa BBQ con macarrones con queso",
+      "recipe": "Ingredientes:\n- 150 g de lomo de cerdo\n- 2 cucharadas de salsa BBQ\n- 1 porción de macarrones con queso\n- Sal y pimienta\n\nPreparación:\n1. Cocina el cerdo con sal y pimienta.\n2. Añade salsa BBQ y calienta.\n3. Sirve con macarrones preparados."
+    },
+    "afternoonSnack": {
+      "name": "Galletas wafer con leche",
+      "notes": "Snack dulce y rápido"
+    },
+    "dinner": {
+      "name": "Tostadas con crema de espinaca, huevo y jamón",
+      "recipe": "Ingredientes:\n- 2 tajadas de pan\n- 2 huevos\n- 2 cucharadas de crema de espinaca\n- 2 tajadas de jamón\n- Sal y pimienta\n\nPreparación:\n1. Tuesta el pan.\n2. Fríe los huevos al gusto.\n3. Calienta la crema de espinaca.\n4. Arma las tostadas con crema, jamón y huevo encima."
+    }
+  },
+  "2025-06-06": {
+    "breakfast": {
+      "name": "Tostadas con queso crema y cacao con leche",
+      "recipe": "Ingredientes:\n- 2 tajadas de pan\n- 2 cucharadas de queso crema\n- 1 taza de leche\n- 1 cucharadita de cacao en polvo\n\nPreparación:\n1. Tuesta el pan y unta queso crema.\n2. Calienta la leche con cacao y mezcla bien.\n3. Sirve todo caliente."
+    },
+    "morningSnack": {
+      "name": "Pera con maní",
+      "notes": "Fuente de energía y fibra"
+    },
+    "lunch": {
+      "name": "Arepa con huevo, jamón y queso fundido",
+      "recipe": "Ingredientes:\n- 1 arepa\n- 1 huevo\n- 1 tajada de jamón\n- 1 tajada de queso doble crema\n- Sal y pimienta\n\nPreparación:\n1. Cocina el huevo a la plancha con sal y pimienta.\n2. Asa la arepa, agrega el jamón y queso para que se funda.\n3. Coloca el huevo encima y sirve."
+    },
+    "afternoonSnack": {
+      "name": "Ciruelas con galletas wafer",
+      "notes": "Equilibrio entre dulce natural y snack procesado"
+    },
+    "dinner": {
+      "name": "Atún en pan con crema de espinaca",
+      "recipe": "Ingredientes:\n- 2 tajadas de pan\n- 1 lata de atún\n- 2 cucharadas de crema de espinaca\n\nPreparación:\n1. Mezcla el atún con crema de espinaca.\n2. Unta la mezcla sobre las tajadas de pan.\n3. Tuesta ligeramente si se desea caliente."
+    }
+  },
+  "2025-06-07": {
+    "breakfast": {
+      "name": "Arepa con huevo revuelto y café",
+      "recipe": "Ingredientes:\n- 1 arepa\n- 2 huevos\n- Sal y pimienta\n- 1 taza de café\n\nPreparación:\n1. Cocina los huevos revueltos con sal y pimienta.\n2. Asa la arepa.\n3. Sirve los huevos encima o al lado y acompaña con café."
+    },
+    "morningSnack": {
+      "name": "Maní con cacao en polvo",
+      "notes": "Snack energético y sabroso"
+    },
+    "lunch": {
+      "name": "Lomo de cerdo con arroz improvisado de macarrones con queso",
+      "recipe": "Ingredientes:\n- 150 g de lomo de cerdo\n- 1 porción de macarrones con queso\n- Sal y pimienta\n\nPreparación:\n1. Cocina el cerdo en sartén hasta dorar.\n2. Calienta los macarrones y usa como base.\n3. Sirve el cerdo encima tipo bowl."
+    },
+    "afternoonSnack": {
+      "name": "Leche con galletas wafer",
+      "notes": "Ideal para media tarde"
+    },
+    "dinner": {
+      "name": "Pan con atún y queso doble crema",
+      "recipe": "Ingredientes:\n- 2 tajadas de pan\n- 1/2 lata de atún\n- 1 tajada de queso doble crema\n\nPreparación:\n1. Mezcla el atún con un poco de aceite si es necesario.\n2. Coloca el queso sobre una tajada y el atún sobre la otra.\n3. Junta ambas y calienta si se desea."
+    }
+  },
+  "2025-06-08": {
+    "breakfast": {
+      "name": "Tostadas con jamón y chocolate caliente",
+      "recipe": "Ingredientes:\n- 2 tajadas de pan\n- 2 tajadas de jamón\n- 1 taza de leche\n- 1 cucharadita de cacao en polvo\n\nPreparación:\n1. Tuesta el pan y coloca el jamón encima.\n2. Calienta la leche con el cacao y endulza si deseas.\n3. Sirve todo junto."
+    },
+    "morningSnack": {
+      "name": "Ciruelas con maní",
+      "notes": "Snack liviano con fibra y proteína"
+    },
+    "lunch": {
+      "name": "Cerdo con salsa BBQ y puré improvisado de crema de espinaca",
+      "recipe": "Ingredientes:\n- 150 g de lomo de cerdo\n- 2 cucharadas de salsa BBQ\n- 2 cucharadas de crema de espinaca\n\nPreparación:\n1. Cocina el cerdo con sal y pimienta.\n2. Agrega la salsa BBQ y cocina 2-3 minutos más.\n3. Sirve con la crema de espinaca caliente como base."
+    },
+    "afternoonSnack": {
+      "name": "Pera en cubos con galletas wafer",
+      "notes": "Frescura natural con toque dulce"
+    },
+    "dinner": {
+      "name": "Pan con queso crema y huevo duro",
+      "recipe": "Ingredientes:\n- 2 tajadas de pan\n- 2 cucharadas de queso crema\n- 1 huevo\n\nPreparación:\n1. Cocina el huevo hasta que esté duro (8-10 minutos).\n2. Unta queso crema en el pan.\n3. Pela y corta el huevo, colócalo sobre el pan."
+    }
+  }
+}
